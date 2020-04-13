@@ -1,6 +1,5 @@
 package main
 
-//[1,2,3,4,5,6,7,8]
 func binarySearch(data []int, value int) bool {
 	low := 0
 	var mid int
